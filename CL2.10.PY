@@ -1,3 +1,4 @@
+#Implement Agglomerative hierarchical clustering algorithm using appropriate dataset
 from sklearn.datasets import load_iris
 from sklearn.cluster import AgglomerativeClustering
 import matplotlib.pyplot as plt
